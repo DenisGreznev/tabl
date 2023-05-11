@@ -1,4 +1,4 @@
-# Печать таблицы умножения 
+# Печать таблицы умножения
 print("Multiplication Table in Hexadecimal:")
 for i in range(1, 16):
     row = ''
@@ -13,7 +13,7 @@ for i in range(1, 16):
             row += hex_result + "\t"
     print(row)
 
-# Печать таблицы сложения 
+# Печать таблицы сложения
 print("Addition Table in Hexadecimal:")
 for i in range(1, 16):
     row = ''
